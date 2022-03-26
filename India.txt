@@ -1,0 +1,7 @@
+{
+	'country': 'India',
+	'capital': 'New Delhi',
+	'national_bird': 'Peacock',
+	'national_animal': 'Tiger',
+	'national_flower': 'Lotus'
+}
